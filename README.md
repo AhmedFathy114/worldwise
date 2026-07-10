@@ -100,7 +100,7 @@ During this project I improved my skills in:
 
 ## 📸 Preview
 
-<img width="100%" src="./preview.png" alt="WorldWise Preview"/>
+<img width="100%" src="./worldwise.png" alt="WorldWise Preview"/>
 
 > Replace **preview.png** with a screenshot of your application.
 
