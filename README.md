@@ -106,6 +106,10 @@ During this project I improved my skills in:
 
 ---
 
+> **Note:** Authentication in this project is mocked using predefined user data. It was implemented to demonstrate protected routes and authentication flow without a backend.
+
+---
+
 ## ⚙️ Installation
 
 Clone the repository:
